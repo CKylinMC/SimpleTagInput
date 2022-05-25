@@ -1,2 +1,4 @@
 # SimpleTagInput
-对 XboxYan  大佬提供的解决方案的封装 https://www.jb51.net/article/243656.htm
+
+一个纯JS和CSS的标签输入框实现。
+修改和封装自 https://www.jb51.net/article/243656.htm
